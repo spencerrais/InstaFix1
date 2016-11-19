@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaFix</string>
+    <string name="text1">Door Fault</string>
+    <string name="text2">Lighting Fault</string>
+    <string name="text3">Plumbing Fault</string>
+    <string name="text4">Heating Fault</string>
+    <string name="text5"></string>
+
+</resources>
